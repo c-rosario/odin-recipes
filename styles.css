@@ -1,0 +1,16 @@
+body {
+    background-color: wheat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: white;
+    background-color: darksalmon;
+    font-size: 80px;
+    text-align: center;
+}
+
+.homebutton {
+    font-size: 20px;
+    
+}
